@@ -8,6 +8,7 @@
 THis is test ddddd
 Hello, this is some text to fill in this, [here](#place-2), is a link to the second place. updated
 
+https://cloud.google.com/sdk/docs/install-sdk
 
 An h1 header
 ============
